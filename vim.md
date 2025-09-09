@@ -43,3 +43,9 @@ Toggle single-line/multi-line code form
 *
 * `zM` Close all folds
 * `zR` Open all folds.
+
+## surrounding shortcuts
+
+* `ys$"` - from cursor to end-of-line (`$`) surround with `""`
+* `yss}` - surround whole line with `{}`
+* `ysiw}` - surrond word with `{}`
